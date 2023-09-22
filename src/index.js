@@ -1,1 +1,5 @@
-// write your code here
+const RAMEN_URL = "http://localhost:3000/ramens";
+
+const init = () => {};
+
+init();
